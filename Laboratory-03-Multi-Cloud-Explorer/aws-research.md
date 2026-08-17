@@ -1,34 +1,34 @@
-# AWS Research
+# Microsoft Azure Research
 
 ## Brief Overview
 
-Amazon Web Services (AWS) is a cloud computing platform that provides on-demand computing, storage, databases, networking, security, and other cloud services. AWS allows organizations to build and operate applications without maintaining all of their own physical infrastructure.
+Microsoft Azure is a cloud computing platform developed by Microsoft. It provides cloud services for computing, storage, databases, networking, security, artificial intelligence, and application development.
 
 ## Global Infrastructure
 
-AWS operates a global infrastructure made up of Regions and Availability Zones. Regions are geographic areas, while Availability Zones are separate locations within a Region designed to provide reliability and high availability.
+Azure operates a global infrastructure consisting of regions and availability zones. Azure regions are geographic locations that contain data centers, while availability zones provide independent locations designed to improve application availability and resilience.
 
 ## Cloud Management Console
 
-The AWS Management Console is a web-based interface used to access and manage AWS services. Users can create resources, monitor services, configure security, and manage cloud infrastructure through the console.
+The Azure portal is a web-based management interface used to create, configure, monitor, and manage Azure resources and services.
 
 ## Four Core Services
 
-1. **Amazon EC2** – Provides virtual servers for running applications.
-2. **Amazon S3** – Provides scalable object storage.
-3. **Amazon RDS** – Provides managed relational databases.
-4. **Amazon VPC** – Provides networking resources in an isolated virtual network.
+1. **Azure Virtual Machines** – Provides scalable virtual machines for running applications and workloads.
+2. **Azure Blob Storage** – Provides scalable object storage for unstructured data.
+3. **Azure SQL Database** – Provides a managed relational database service.
+4. **Azure Virtual Network** – Provides private networking for Azure resources.
 
 ## Three Advantages
 
-1. AWS provides a large selection of cloud services.
-2. AWS can scale resources according to business requirements.
-3. AWS has a global infrastructure that supports applications in many regions.
+1. Azure integrates well with Microsoft products and technologies.
+2. Azure provides a wide range of enterprise cloud services.
+3. Azure supports hybrid cloud environments and enterprise security requirements.
 
 ## Typical Enterprise Use Cases
 
-AWS is commonly used for web applications, data storage, backup and disaster recovery, enterprise applications, analytics, and large-scale cloud infrastructure.
+Azure is commonly used for enterprise applications, Windows Server workloads, Microsoft 365 integration, databases, hybrid cloud environments, artificial intelligence, analytics, and application development.
 
 ## Official Source
 
-AWS Official Website: https://aws.amazon.com/
+Microsoft Azure Official Website: https://azure.microsoft.com/
