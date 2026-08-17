@@ -4,10 +4,17 @@
 Francis Raymund F. Ido Jr.
 
 ## Program
-Bachelor of Science in Information Technology
+Bachelor of Science in Information Technology (BSIT)
 
 ## Course
 Cloud Computing
 
-## Goal
-My goal is to develop practical skills in Linux, cloud computing, and cloud infrastructure.
+## Instructor
+Jenkielyn Torres
+
+## About Me
+I am an Information Technology student interested in learning about
+cloud computing, modern technologies, and software development.
+
+This portfolio will document my learning experiences and laboratory
+activities throughout the semester.
